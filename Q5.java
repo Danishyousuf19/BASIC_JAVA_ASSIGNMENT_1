@@ -8,7 +8,7 @@ Area = 𝑛 × 𝑆
 𝑛
 )
 Write a method that returns the area of a regular polygon using the following header:
-public static double area(int n, double side)/*
+public static double area(int n, double side)*/
 
 public class Q5 {
 	public static double area(int n, double side) {
